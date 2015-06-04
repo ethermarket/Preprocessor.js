@@ -1,5 +1,7 @@
 ![Preprocessor.js - A JavaScript preprocessor](https://raw.github.com/dcodeIO/Preprocessor.js/master/Preprocessor.png)
 ===========================================
+
+[![Join the chat at https://gitter.im/ethermarket/Preprocessor.js](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ethermarket/Preprocessor.js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Provides a JavaScript source file preprocessor, e.g. to build different versions of a library. It's for example used to
 build [ProtoBuf.js](https://github.com/dcodeIO/ProtoBuf.js) (its [build](https://github.com/dcodeIO/ProtoBuf.js/blob/master/build.js)
 and [main script](https://github.com/dcodeIO/ProtoBuf.js/blob/master/src/ProtoBuf.js) are quite good examples).
